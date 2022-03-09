@@ -1,0 +1,57 @@
+.datepicker-date-display {
+   background-color: #1a237e
+}
+
+.datepicker-day-button:focus {
+   color: white !important;
+   background-color: #1a237e
+}
+
+.select-dropdown li>span {
+   color: rgba(0, 0, 0, .9)
+}
+
+.datepicker-done,
+.datepicker-cancel,
+.timepicker-close {
+   color: #1a237e !important
+}
+
+.is-today {
+   color: #1a237e !important
+}
+
+td.is-selected,
+.month-prev:active,
+.month-prev:focus,
+.month-next:active,
+.month-next:focus,
+.timepicker-digital-display {
+   background-color: #1a237e !important
+}
+
+td.is-selected.is-today {
+   color: white !important
+}
+
+.timepicker-canvas-bg,
+.timepicker-canvas-bearing {
+   fill: cyan !important
+}
+
+.timepicker-canvas line {
+   stroke: #1a237e
+}
+
+.timepicker-tick:hover {
+   background-color: #1a237e
+}
+
+.datepicker-controls .select-month input {
+   width: 80px
+}
+
+input[type=text]:focus {
+   border-bottom: 1px solid #1a237e !important;
+   box-shadow: 0 1px 0 0 #1a237e !important
+}

@@ -1,0 +1,12 @@
+Materialize é um framework Front-End que resolve os 
+mesmos problemas que o bootstrap, mas claro, com suas 
+próprias características. Ele surgiu através de um 
+projeto desenvolvido pela Google e é inspirado no 
+Material Design (design utilizado no sistema operacional para 
+smartphones Android desde a versão 5.0).
+
+Com seus componentes bem semelhantes aos de seu amigo 
+Bootstrap, ele apresenta opções com design mais leve. 
+Isto faz com que seu projeto fique visualmente mais 
+agradável.
+Além disto, com ele, você deixa seu projeto responsivo. 

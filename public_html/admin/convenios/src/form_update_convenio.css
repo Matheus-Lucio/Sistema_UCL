@@ -1,0 +1,7 @@
+.mr-2 {
+   margin-right: 8px
+}
+
+.select-dropdown li>span {
+   color: rgba(0, 0, 0, .9)
+}

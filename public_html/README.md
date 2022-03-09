@@ -1,4 +1,4 @@
-# Sistema de Clínica - Trabalho de conclusão da minha faculdade.
+# Sistema UCL - Trabalho de conclusão da minha faculdade.
 
 ### Autor: Matheus Lucio
 
